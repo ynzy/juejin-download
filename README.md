@@ -25,7 +25,12 @@ node main.js
 ```
 
 ## 预览
+
 <img width="960" src="./video.gif" alt="video">
+
+## 扩展
+
+- 线上图片转成本地图片
 
 ## 声明
 
